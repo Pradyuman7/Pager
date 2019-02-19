@@ -13,7 +13,7 @@
 ## GIF
 
 <p align="left">
-  <img width="320" height="600" src="https://user-images.githubusercontent.com/41565823/52993954-3edb6000-3416-11e9-94ef-bf9578abfe7f.gif">
+  <img width="300" height="550" src="https://user-images.githubusercontent.com/41565823/52993954-3edb6000-3416-11e9-94ef-bf9578abfe7f.gif">
 </p>
 
 ## Medium Post
