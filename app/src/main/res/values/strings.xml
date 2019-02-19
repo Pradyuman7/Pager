@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PagerDemo</string>
+    <string name="show_menu">Show Menu</string>
+    <string name="page5">Page5</string>
+    <string name="page4">Page4</string>
+    <string name="page3">Page3</string>
+    <string name="click_me">Click Menu Icon</string>
+    <string name="page_2">Page2</string>
+</resources>
