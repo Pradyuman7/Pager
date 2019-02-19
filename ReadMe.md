@@ -44,6 +44,79 @@ dependencies {
 	}
 ```
 
+## Usage
+
+```XML
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.pd.cards.Main2Activity"
+    tools:ignore="all"
+    tools:showIn="@layout/activity_main2">
+
+    <com.pd.pager.PagerLayout
+        android:id="@+id/rl_main"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        app:num="five"/>
+</merge>
+```
+
+```XMl
+<com.pd.pager.PagerLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+</com.pd.pager.PagerLayout>
+```
+
+```java
+PagerLayout pager = findViewById(R.id.rl_main);
+
+        List<String> titleList = new ArrayList<>();
+        titleList.add("Page1");
+        titleList.add("Page2");
+        titleList.add("Page3");
+        titleList.add("Page4");
+        titleList.add("Page5");
+
+        if(pager == null)
+            Log.i("Pager_Null","Pager is null");
+
+
+        pager.setTitles(titleList);
+
+
+        fragments.add(new Page1());
+        fragments.add(new Page2());
+        fragments.add(new Page3());
+        fragments.add(new Page4());
+        fragments.add(new Page5());
+
+        FragmentPagerAdapter adapter = new FragmentPagerAdapter(getSupportFragmentManager()) {
+            @Override
+            public Fragment getItem(int position) {
+                return fragments.get(position);
+            }
+
+            @Override
+            public int getCount() {
+                return fragments.size();
+            }
+        };
+
+        pager.setAdapter(adapter);
+```
+
+- See the app code to know more about this.
+
 ## Pull Request
 
 Have some new ideas or found a bug? Do not hesitate to open an `issue` and make a `pull request`.
