@@ -46,6 +46,8 @@ dependencies {
 
 ## Usage
 
+- Add the layout in your XML file for the activity, like this:
+
 ```XML
 <?xml version="1.0" encoding="utf-8"?>
 <merge
@@ -66,6 +68,7 @@ dependencies {
         app:num="five"/>
 </merge>
 ```
+***
 
 ```XMl
 <com.pd.pager.PagerLayout
@@ -76,6 +79,8 @@ dependencies {
 
 </com.pd.pager.PagerLayout>
 ```
+***
+- Configure the layout and add the fragments like this:
 
 ```java
 PagerLayout pager = findViewById(R.id.rl_main);
