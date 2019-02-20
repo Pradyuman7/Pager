@@ -3,6 +3,7 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![API](https://img.shields.io/badge/API-15%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=15)
 [![Pager](https://img.shields.io/badge/Pradyuman7-Pager-blue.svg?style=flat)](https://github.com/Pradyuman7/Pager)
+[ ![Download](https://api.bintray.com/packages/pradyuman7/Pager/Pager/images/download.svg?version=V1.0) ](https://bintray.com/pradyuman7/Pager/Pager/V1.0/link)
 
 <p align="center">
   <img width="250" height="250" src="https://user-images.githubusercontent.com/41565823/52990799-2c5b2980-340a-11e9-8e74-d530ee593c01.gif">
