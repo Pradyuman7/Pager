@@ -19,9 +19,9 @@
   <img width="300" height="550" src="https://user-images.githubusercontent.com/41565823/52993954-3edb6000-3416-11e9-94ef-bf9578abfe7f.gif">
 </p>
 
-## Medium Post
+## AndroidPub(Medium) Post
 
-[You can read the Medium post about this library, the perks it provides and other details here.](https://medium.com/@pradyumandixit/how-to-get-your-menu-options-on-steroids-aef1b5a40862)
+[You can read the AndroidPub post about this library, the perks it provides and other details here.](https://medium.com/@pradyumandixit/how-to-get-your-menu-options-on-steroids-aef1b5a40862)
 
 ## Prerequisites
 
