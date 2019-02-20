@@ -1,4 +1,4 @@
-# Pager [![Pager](https://img.shields.io/badge/Pradyuman7-Pager-blue.svg?style=flat)](https://github.com/Pradyuman7/Pager)
+# Pager 
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![API](https://img.shields.io/badge/API-15%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=15)
