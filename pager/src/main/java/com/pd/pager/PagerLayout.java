@@ -154,7 +154,7 @@ public final class PagerLayout extends FrameLayout {
 
     @UiThread
     public void setTitles(@NonNull List<String> titles) {
-        for (int i = 0; i < num; i++) {
+        for (int i = 0; i < titles.size(); i++) {
             ((MakeLayout) getChildAt(i)).setTitle(titles.get(i));
         }
     }
