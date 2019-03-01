@@ -2,6 +2,7 @@
 
 [![](https://www.jitpack.io/v/Pradyuman7/Pager.svg)](https://www.jitpack.io/#Pradyuman7/Pager)
 [![API](https://img.shields.io/badge/API-15%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=15)
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Pager-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/7537)
 [![Pager](https://img.shields.io/badge/Pradyuman7-Pager-orange.svg?style=flat)](https://github.com/Pradyuman7/Pager)
 [ ![Download](https://api.bintray.com/packages/pradyuman7/Pager/Pager/images/download.svg?version=V1.1) ](https://bintray.com/pradyuman7/Pager/Pager/V1.0/link)
 
