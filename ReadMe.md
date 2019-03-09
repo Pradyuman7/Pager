@@ -5,6 +5,7 @@
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Pager-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/7537)
 [![Pager](https://img.shields.io/badge/Pradyuman7-Pager-yellow.svg?style=flat)](https://github.com/Pradyuman7/Pager)
 [![AndroidDevDigest](https://img.shields.io/badge/AndroidDevDigest-Pager-darkblue.svg?style=flat)](https://www.androiddevdigest.com/digest-219/)
+[![AndroidWeekly](https://img.shields.io/badge/AndroidWeekly-Pager-black.svg?style=flat)](https://androidweekly.cn/android-dev-weekly-issue-218/)
 [![AwesomeAndroid](https://img.shields.io/badge/Awesome_Android-Pager-purple.svg?style=flat)](https://android.libhunt.com/pager-alternatives)
 [ ![Download](https://api.bintray.com/packages/pradyuman7/Pager/Pager/images/download.svg?version=V1.1) ](https://bintray.com/pradyuman7/Pager/Pager/V1.0/link)
 
