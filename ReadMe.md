@@ -5,9 +5,12 @@
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Pager-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/7537)
 [![Pager](https://img.shields.io/badge/Pradyuman7-Pager-yellow.svg?style=flat)](https://github.com/Pradyuman7/Pager)
 [![AndroidDevDigest](https://img.shields.io/badge/AndroidDevDigest-Pager-darkblue.svg?style=flat)](https://www.androiddevdigest.com/digest-219/)
+[![UX Planet](https://img.shields.io/badge/UX_Planet-Pager-lightblue.svg?style=flat)](
+https://uxplanet.org/ui-libraries-by-top-app-developers-12588746efb0)
 [![AndroidWeekly](https://img.shields.io/badge/AndroidWeekly-Pager-black.svg?style=flat)](https://androidweekly.cn/android-dev-weekly-issue-218/)
 [![AwesomeAndroid](https://img.shields.io/badge/Awesome_Android-Pager-purple.svg?style=flat)](https://android.libhunt.com/pager-alternatives)
 [ ![Download](https://api.bintray.com/packages/pradyuman7/Pager/Pager/images/download.svg?version=V1.1) ](https://bintray.com/pradyuman7/Pager/Pager/V1.0/link)
+
 
 <p align="center">
   <img width="250" height="250" src="https://user-images.githubusercontent.com/41565823/52990799-2c5b2980-340a-11e9-8e74-d530ee593c01.gif">
